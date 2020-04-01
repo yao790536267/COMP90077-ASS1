@@ -15,6 +15,7 @@
 
 template <class T>
 class DynamicArray {
+
 public:
     DynamicArray();
     ~DynamicArray();

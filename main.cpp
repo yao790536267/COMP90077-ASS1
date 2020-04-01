@@ -1,8 +1,8 @@
 #include <iostream>
+
 #include "DataGenerator.h"
 #include "randomizedTreap.h"
 #include "competitor.h"
-
 
 
 int main() {

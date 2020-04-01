@@ -5,7 +5,7 @@
       <config projectName="AADS_Ass1" targetName="AADS_Ass1" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
@@ -13,17 +13,17 @@
   <component name="ChangeListManager">
     <list default="true" id="b9dd3749-8ef1-454d-845d-5c0623c4d409" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataGenerator.h" beforeDir="false" afterPath="$PROJECT_DIR$/DataGenerator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AADS_Ass1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataGenerator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataGenerator.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/competitor.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/competitor.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/competitor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/competitor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competitor.h" beforeDir="false" afterPath="$PROJECT_DIR$/competitor.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/randomizedTreap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/randomizedTreap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomizedTreap.h" beforeDir="false" afterPath="$PROJECT_DIR$/randomizedTreap.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585653817455</updated>
-      <workItem from="1585653818950" duration="31036000" />
+      <workItem from="1585653818950" duration="32169000" />
     </task>
     <servers />
   </component>

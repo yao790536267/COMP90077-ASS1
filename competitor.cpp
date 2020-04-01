@@ -5,7 +5,7 @@
 #include <new>
 #include <iostream>
 #include "competitor.h"
-
+using namespace std;
 
 template <class T>
 DynamicArray<T>::DynamicArray() {

@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include "randomizedTreap.h"
+using namespace std;
 
 static TreapNode* treap_root = nullptr;
 
@@ -137,6 +138,7 @@ void TreapNode::insert(Element element){
 void TreapNode::delet(int key_del) {
     delete_node(treap_root, key_del);
 }
+
 Element TreapNode::search(int key_q) {
     if (treap_root == nullptr) {
         std::cout<<"first search: treap root is null! \n";

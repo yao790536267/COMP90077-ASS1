@@ -10,7 +10,7 @@
 class TreapNode {
 
 public:
-    Element element;
+    Element element{};
     int priority;
 
     TreapNode* left, *right;
@@ -22,9 +22,9 @@ public:
     void displayTreap(TreapNode *root, int space = 0, int height =10);
 
 private:
-    void rotLeft(TreapNode* &root);
-    void rotRight(TreapNode* &root);
-    void insert_node(TreapNode* root, Element element);
+    static void rotLeft(TreapNode* &root);
+    static void rotRight(TreapNode* &root);
+    static void insert_node(TreapNode* root, Element element);
     void delete_node(TreapNode* &root, int key);
     Element* search_node(TreapNode* root, int key);
 };
