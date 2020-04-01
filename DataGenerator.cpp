@@ -7,6 +7,18 @@
 #include "DataGenerator.h"
 using namespace std;
 
+//ex1
+Operation* generate_5_insertion_seq(int length) {
+    Operation array1[length];
+    for (int i = 0; i < length; i++){
+        Element element = gen_element();
+        Operation operation;
+        operation.element = element;
+        operation.operation_type = INSERTION;
+        array1[i] = operation;
+    }
+
+}
 
 
 Element gen_element() {
