@@ -12,5 +12,7 @@ CMakeFiles/AADS_Ass1.dir/main.cpp.o: ../competitor.h
 CMakeFiles/AADS_Ass1.dir/main.cpp.o: ../main.cpp
 CMakeFiles/AADS_Ass1.dir/main.cpp.o: ../randomizedTreap.h
 
+CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o: ../DataGenerator.h
 CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o: ../randomizedTreap.cpp
+CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o: ../randomizedTreap.h
 

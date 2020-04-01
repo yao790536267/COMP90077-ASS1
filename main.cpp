@@ -9,14 +9,12 @@ int main() {
     Element ele;
     ele.id = 1;
     ele.key = 1;
-    insert(ele);
+    TreapNode *node = new TreapNode(ele);
+    node->search(1);
 
     Element ele1;
-    ele.id = 2;
-    ele.key = 2;
-    insert(ele1);
+    ele1.id = 2;
+    ele1.key = 2;
+    node->insert(ele1);
 
-//    search(1);
-//    delet(1);
-//    search(1);
 }

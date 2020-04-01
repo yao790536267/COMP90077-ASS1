@@ -142,25 +142,9 @@ T DynamicArray<T>::search(int search_key) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // debug Dynamic array
 //
-//int main () {
+//int m1ain () {
 //    DynamicArray<Element> arr;
 //    arr.print();
 //    std::cout<<" about to insert \n";
@@ -178,5 +162,12 @@ T DynamicArray<T>::search(int search_key) {
 //
 //    return 0;
 //}
+
+
+
+
+
+
+
 
 

@@ -152,7 +152,7 @@ Element TreapNode::search(int key_q) {
 }
 
 // display
-void TreapNode::displayTreap(TreapNode *root, int space = 0, int height =10) {
+void TreapNode::displayTreap(TreapNode *root, int space, int height) {
     if (root == nullptr)
         return;
     space += height;
