@@ -83,46 +83,46 @@ CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DataGenerator.cpp" -o CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.s
 
-CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o: CMakeFiles/AADS_Ass1.dir/flags.make
-CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o: ../randomizedTreap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o -c "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.cpp"
+CMakeFiles/AADS_Ass1.dir/Treap.cpp.o: CMakeFiles/AADS_Ass1.dir/flags.make
+CMakeFiles/AADS_Ass1.dir/Treap.cpp.o: ../Treap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AADS_Ass1.dir/Treap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AADS_Ass1.dir/Treap.cpp.o -c "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Treap.cpp"
 
-CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.cpp" > CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.i
+CMakeFiles/AADS_Ass1.dir/Treap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AADS_Ass1.dir/Treap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Treap.cpp" > CMakeFiles/AADS_Ass1.dir/Treap.cpp.i
 
-CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.cpp" -o CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.s
+CMakeFiles/AADS_Ass1.dir/Treap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AADS_Ass1.dir/Treap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Treap.cpp" -o CMakeFiles/AADS_Ass1.dir/Treap.cpp.s
 
-CMakeFiles/AADS_Ass1.dir/competitor.cpp.o: CMakeFiles/AADS_Ass1.dir/flags.make
-CMakeFiles/AADS_Ass1.dir/competitor.cpp.o: ../competitor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AADS_Ass1.dir/competitor.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AADS_Ass1.dir/competitor.cpp.o -c "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/competitor.cpp"
+CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o: CMakeFiles/AADS_Ass1.dir/flags.make
+CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o: ../DynamicArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o -c "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DynamicArray.cpp"
 
-CMakeFiles/AADS_Ass1.dir/competitor.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AADS_Ass1.dir/competitor.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/competitor.cpp" > CMakeFiles/AADS_Ass1.dir/competitor.cpp.i
+CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DynamicArray.cpp" > CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.i
 
-CMakeFiles/AADS_Ass1.dir/competitor.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AADS_Ass1.dir/competitor.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/competitor.cpp" -o CMakeFiles/AADS_Ass1.dir/competitor.cpp.s
+CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DynamicArray.cpp" -o CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.s
 
 # Object files for target AADS_Ass1
 AADS_Ass1_OBJECTS = \
 "CMakeFiles/AADS_Ass1.dir/main.cpp.o" \
 "CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.o" \
-"CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o" \
-"CMakeFiles/AADS_Ass1.dir/competitor.cpp.o"
+"CMakeFiles/AADS_Ass1.dir/Treap.cpp.o" \
+"CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o"
 
 # External object files for target AADS_Ass1
 AADS_Ass1_EXTERNAL_OBJECTS =
 
 AADS_Ass1: CMakeFiles/AADS_Ass1.dir/main.cpp.o
 AADS_Ass1: CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.o
-AADS_Ass1: CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o
-AADS_Ass1: CMakeFiles/AADS_Ass1.dir/competitor.cpp.o
+AADS_Ass1: CMakeFiles/AADS_Ass1.dir/Treap.cpp.o
+AADS_Ass1: CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o
 AADS_Ass1: CMakeFiles/AADS_Ass1.dir/build.make
 AADS_Ass1: CMakeFiles/AADS_Ass1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable AADS_Ass1"

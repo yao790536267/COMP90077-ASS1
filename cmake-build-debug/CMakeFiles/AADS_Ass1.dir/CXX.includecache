@@ -14,45 +14,37 @@ map
 Element.h
 /Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Element.h
 
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Element.h
-
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/competitor.h
+/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DynamicArray.h
 cstddef
 -
-DataGenerator.h
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DataGenerator.h
+Element.h
+/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Element.h
+
+/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Element.h
+
+/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Treap.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+Element.h
+/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Element.h
 
 /Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/main.cpp
 iostream
 -
 DataGenerator.h
 /Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DataGenerator.h
-randomizedTreap.h
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.h
-competitor.h
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/competitor.h
+Treap.h
+/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Treap.h
+DynamicArray.h
+/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DynamicArray.h
 ctime
 -
 cstdlib
 -
 Element.h
 /Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Element.h
-
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.cpp
-iostream
--
-randomizedTreap.h
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.h
-ctime
--
-
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.h
-iostream
--
-cstdlib
--
-ctime
--
-DataGenerator.h
-/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DataGenerator.h
 

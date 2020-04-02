@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include "randomizedTreap.h"
+#include "Treap.h"
 #include <ctime>
 using namespace std;
 
@@ -360,8 +360,8 @@ Treap::Treap() {
     }
 
     // delete the node from the tree
-    void Treap::deleteNode(int data) {
-        deleteNodeHelper(this->root, data);
+    void Treap::deleteNode(int key) {
+        deleteNodeHelper(this->root, key);
     }
 
     // print the tree structure on the screen

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/AADS_Ass1.dir/main.cpp.o"
   "CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.o"
-  "CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o"
-  "CMakeFiles/AADS_Ass1.dir/competitor.cpp.o"
+  "CMakeFiles/AADS_Ass1.dir/Treap.cpp.o"
+  "CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o"
   "AADS_Ass1.pdb"
   "AADS_Ass1"
 )

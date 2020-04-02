@@ -2,12 +2,12 @@
 // Created by 姚泽铭 on 31/3/20.
 //
 
-#ifndef AADS_ASS1_RANDOMIZEDTREAP_H
-#define AADS_ASS1_RANDOMIZEDTREAP_H
+#ifndef AADS_ASS1_TREAP_H
+#define AADS_ASS1_TREAP_H
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include "DataGenerator.h"
+#include "Element.h"
 
 using namespace std;
 
@@ -97,7 +97,7 @@ public:
     NodePtr getRoot();
 
     // delete the node from the tree
-    void deleteNode(int data);
+    void deleteNode(int key);
 
     // print the tree structure on the screen
     void prettyPrint();
@@ -108,4 +108,4 @@ public:
 
 
 
-#endif //AADS_ASS1_RANDOMIZEDTREAP_H
+#endif //AADS_ASS1_TREAP_H

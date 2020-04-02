@@ -86,19 +86,19 @@
 		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DataGenerator.h">
 			<Option target="AADS_Ass1"/>
 		</Unit>
-		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/competitor.cpp">
+		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DynamicArray.cpp">
 			<Option target="AADS_Ass1"/>
 		</Unit>
-		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/competitor.h">
+		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/DynamicArray.h">
+			<Option target="AADS_Ass1"/>
+		</Unit>
+		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Treap.cpp">
+			<Option target="AADS_Ass1"/>
+		</Unit>
+		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/Treap.h">
 			<Option target="AADS_Ass1"/>
 		</Unit>
 		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/main.cpp">
-			<Option target="AADS_Ass1"/>
-		</Unit>
-		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.cpp">
-			<Option target="AADS_Ass1"/>
-		</Unit>
-		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/randomizedTreap.h">
 			<Option target="AADS_Ass1"/>
 		</Unit>
 		<Unit filename="/Users/yaozeming/Google Drive (zyya@student.unimelb.edu.au)/Project/C++Projects/AADS-Ass1/CMakeLists.txt">

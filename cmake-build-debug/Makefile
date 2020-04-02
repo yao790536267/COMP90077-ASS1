@@ -150,32 +150,59 @@ DataGenerator.cpp.s:
 	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/DataGenerator.cpp.s
 .PHONY : DataGenerator.cpp.s
 
-competitor.o: competitor.cpp.o
+DynamicArray.o: DynamicArray.cpp.o
 
-.PHONY : competitor.o
+.PHONY : DynamicArray.o
 
 # target to build an object file
-competitor.cpp.o:
-	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/competitor.cpp.o
-.PHONY : competitor.cpp.o
+DynamicArray.cpp.o:
+	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.o
+.PHONY : DynamicArray.cpp.o
 
-competitor.i: competitor.cpp.i
+DynamicArray.i: DynamicArray.cpp.i
 
-.PHONY : competitor.i
+.PHONY : DynamicArray.i
 
 # target to preprocess a source file
-competitor.cpp.i:
-	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/competitor.cpp.i
-.PHONY : competitor.cpp.i
+DynamicArray.cpp.i:
+	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.i
+.PHONY : DynamicArray.cpp.i
 
-competitor.s: competitor.cpp.s
+DynamicArray.s: DynamicArray.cpp.s
 
-.PHONY : competitor.s
+.PHONY : DynamicArray.s
 
 # target to generate assembly for a file
-competitor.cpp.s:
-	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/competitor.cpp.s
-.PHONY : competitor.cpp.s
+DynamicArray.cpp.s:
+	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/DynamicArray.cpp.s
+.PHONY : DynamicArray.cpp.s
+
+Treap.o: Treap.cpp.o
+
+.PHONY : Treap.o
+
+# target to build an object file
+Treap.cpp.o:
+	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/Treap.cpp.o
+.PHONY : Treap.cpp.o
+
+Treap.i: Treap.cpp.i
+
+.PHONY : Treap.i
+
+# target to preprocess a source file
+Treap.cpp.i:
+	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/Treap.cpp.i
+.PHONY : Treap.cpp.i
+
+Treap.s: Treap.cpp.s
+
+.PHONY : Treap.s
+
+# target to generate assembly for a file
+Treap.cpp.s:
+	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/Treap.cpp.s
+.PHONY : Treap.cpp.s
 
 main.o: main.cpp.o
 
@@ -204,33 +231,6 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-randomizedTreap.o: randomizedTreap.cpp.o
-
-.PHONY : randomizedTreap.o
-
-# target to build an object file
-randomizedTreap.cpp.o:
-	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.o
-.PHONY : randomizedTreap.cpp.o
-
-randomizedTreap.i: randomizedTreap.cpp.i
-
-.PHONY : randomizedTreap.i
-
-# target to preprocess a source file
-randomizedTreap.cpp.i:
-	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.i
-.PHONY : randomizedTreap.cpp.i
-
-randomizedTreap.s: randomizedTreap.cpp.s
-
-.PHONY : randomizedTreap.s
-
-# target to generate assembly for a file
-randomizedTreap.cpp.s:
-	$(MAKE) -f CMakeFiles/AADS_Ass1.dir/build.make CMakeFiles/AADS_Ass1.dir/randomizedTreap.cpp.s
-.PHONY : randomizedTreap.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -243,15 +243,15 @@ help:
 	@echo "... DataGenerator.o"
 	@echo "... DataGenerator.i"
 	@echo "... DataGenerator.s"
-	@echo "... competitor.o"
-	@echo "... competitor.i"
-	@echo "... competitor.s"
+	@echo "... DynamicArray.o"
+	@echo "... DynamicArray.i"
+	@echo "... DynamicArray.s"
+	@echo "... Treap.o"
+	@echo "... Treap.i"
+	@echo "... Treap.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... randomizedTreap.o"
-	@echo "... randomizedTreap.i"
-	@echo "... randomizedTreap.s"
 .PHONY : help
 
 
